@@ -1,7 +1,9 @@
-# cv_for_genAI
-Python Imaging Library with NumPy (CV_for_GenAI)
-A project demonstrating image processing using PIL and NumPy. Key features include loading, manipulating, and filtering images, and integrating these processes with Generative AI applications.
+Overview
+This project explores image processing techniques using Python Imaging Library (PIL) and NumPy. It focuses on manipulating and enhancing images, and integrating these capabilities with Generative AI applications.
 
-Key Technologies: PIL, NumPy, Matplotlib
-
-Usage: Clone the repo, install dependencies, and explore the image processing capabilities.
+Features
+Image Loading & Display: Load and view images using PIL.
+Manipulation: Resize, crop, and rotate images.
+Pixel Operations: Modify pixel values with NumPy.
+Filters & Enhancements: Apply various filters to improve image quality.
+AI Integration: Preprocess images for use in Generative AI models.
